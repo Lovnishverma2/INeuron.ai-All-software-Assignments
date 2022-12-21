@@ -1,1 +1,22 @@
 
+Advance Excel Assignment 1
+
+1.What do you mean by cells in an excel sheet?
+   Cell is the intersection of row and column which contain specific data and had specific place
+   Eg. A2 is the place of data in which A represent colum and 2 represent 2 row
+   
+2.How can you restrict someone from copying a cell from your worksheet?
+   Go to menu bar > review > protect sheet > password
+   
+3.How to move or copy the worksheet into another workbook?
+  On the edit menu 
+  Click sheet > move or copy  
+
+4.Which key is used as a shortcut for opening a new window document?
+   Ctrl + N
+  
+5.What are the things that we can notice after opening the Excel interface?
+  Quick Access Toolbar, Ribbon, Name Box, Formula Quick Menu, Formula Bar, Status Bar, Worksheet View Options, Zoom Slider Control, and the Zoom Percentage Indicator.
+
+6.When to use a relative cell reference in excel?
+   Refence is relative to the location of the cell
