@@ -1,0 +1,34 @@
+1. Using Insert Function, give examples of any function available in the different dropdowns present in the function library.
+   For example AutoSum, Recently Used, Text, Date & Time, etc.
+   AutoSum: used to quickly calculate the sum, average, count, max, or min of a range of cells
+   Recently Used: This dropdown shows a list of recently used functions for easy access
+   Text: This dropdown includes functions for manipulating text, such as LEFT, RIGHT, MID, CONCATENATE, and SUBSTITUTE
+   Date & Time: This dropdown includes functions for working with dates and times, such as NOW, TODAY, YEAR, MONTH, DAY, HOUR, MINUTE, and SECOND
+   Logical: This dropdown includes functions for performing logical operations, such as IF, AND, OR, NOT, and IFERROR
+   Lookup & Reference: This dropdown includes functions for looking up values in a table or range, such as VLOOKUP, HLOOKUP, INDEX, and MATCH
+
+2. What are the different ways you can select columns and rows?
+   some different way to select columns and rows are given below.
+   Click and drag
+   Keyboard shortcuts
+   Select all
+   Name box
+   Go To
+
+3. What is AutoFit and why do we use it?
+   Excel AutoFit feature is designed to automatically resize cells in a worksheet to accommodate different sized data without having to manually change the 
+   column width and row height 
+   AutoFit Column Width - changes the column width to hold the largest value in the column
+
+4. How can you insert new rows and columns into the existing table?
+   Right-click on a row or column header and select Insert from the drop-down menu
+   Alternatively, go to the Insert tab on the ribbon, click on the Insert Sheet Rows or Insert Sheet Columns button to add new rows or columns to the table
+
+5. How do you hide and unhide columns in excel?
+   On the Home tab, in the Cells group, click Format
+   Do one of the following: Under Visibility, click Hide & Unhide, and then click Unhide Rows or Unhide Columns
+
+6. Create an appropriate table within the worksheet and use different functions available in the AutoSum command.
+   Select the cell where you want the total to appear, then click on AutoSum button on the ribbon and choose desired function from the drop-down menu,
+   such as SUM, AVERAGE, COUNT, MAX, MIN, etc. AutoSum function will automatically detect the range of cells with numeric data and calculate result based
+   on the selected function
