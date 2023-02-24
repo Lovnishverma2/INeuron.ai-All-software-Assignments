@@ -1,0 +1,49 @@
+1. What are the various elements of the Excel interface? Describe how they're used.
+   Ribbon - contains tabs with various commands and tools for working with Excel
+   Quick Access Toolbar - allows quick access to frequently used commands
+   Title bar - displays the name of the workbook and the Excel window
+   Workbook window - the main area where you can enter and edit data in cells
+   Formula bar - displays the contents of the active cell and allows you to enter or edit formulas
+   Status bar - displays information about the current state of the workbook, such as the sum or average of selected cells
+   Scroll bars - allow you to navigate through the workbook vertically and horizontally
+   Sheet tabs - allow you to switch between different sheets in the workbook
+
+2. Write down the various applications of Excel in the industry.
+   Accounting and finance - used for financial analysis, budgeting, forecasting, and preparing financial statements
+   Project management -  used for creating project schedules, tracking project progress, and analyzing project data
+   Sales and marketing - used for creating and analyzing sales reports, forecasting sales, and managing customer data
+   Human resources - used for tracking employee data, creating payroll reports, and analyzing employee performance
+   Education and research - used for analyzing research data, creating student grade books, and preparing research reports
+
+3. On the ribbon, make a new tab. Add some different groups, insert commands in the groups and name them according to their commands
+   added. Copy and paste the screenshot of the steps you followed.
+   Right-click on existing tab on the Ribbon and select Customize the Ribbon
+   Click on New Tab button to create a new tab on the Ribbon
+   Click on New Group button to create new groups on the new tab
+   Click on Add button to add commands to the new groups
+   Select each command and click on the Rename button to give it a name
+
+4. Make a list of different shortcut keys that are only connected to formatting with their functions.
+   Ctrl + 1: Opens the Format Cells dialog box
+   Ctrl + Shift + ~: Applies the General number format
+   Ctrl + Shift + $: Applies the Currency number format
+   Ctrl + Shift + %: Applies the Percent number format
+   Ctrl + Shift + #: Applies the Date format with day, month, and year
+   Ctrl + Shift + @: Applies the Time format with hours and minutes
+   Ctrl + Shift + &: Applies the Border formatting to the selected cells
+   Ctrl + Shift + _: Removes the Border formatting from the selected cells
+   Ctrl + Shift + ~: Applies the default Font formatting
+   Ctrl + Shift + F: Opens the Format Cells dialog box with the Font tab selected
+
+5. What distinguishes Excel from other analytical tools?
+   User-friendly interface
+   Flexibility
+   Customizability
+   Wide range of functions
+   Charting capabilities
+   Integration with other Microsoft tools
+
+6. Create a table and add a custom header and footer to your table.
+   Select the range of cells you want to convert to a table.
+   On the Insert tab, click the Table button, select style wanted then check the My table has headers box
+   Then, go to Design tab, click on Header Row checkbox to add your custom header, and then click on the Footer Row checkbox to add your custom footer
