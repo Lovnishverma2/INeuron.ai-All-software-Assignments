@@ -1,0 +1,31 @@
+1. What do you mean by AutoComplete feature in Excel and what are the
+   benefits of using this feature?
+   AutoComplete feature in Excel is a tool that suggests possible entries for a cell based on previously entered data in the same column.
+   The benefits of using this feature include:
+   .Saving time and reducing errors by allowing users to quickly select from suggested entries instead of manually typing out the entire entry.
+   .Ensuring consistency in data entry by prompting users with previously entered data, thus reducing the likelihood of typos or misspellings.
+
+2. Explain working with workbooks and working with cells.
+   Working with workbooks involves managing and organizing Excel files, while working in cells involves inputting, editing, formatting, and 
+   manipulating data within individual cells in a worksheet.
+
+3. What is fill handle in Excel and why do we use it?
+   The fill handle in Excel is a tool that allows users to quickly copy and fill in a series of data or values into adjacent cells,
+   based on the pattern established by the selected cell(s).
+
+4. Give some examples of using the fill handle.
+   .Quickly filling a series of sequential numbers or dates (e.g. January, February, March).
+   .Duplicating a formula or function across multiple cells with relative references, so that each cell calculates the result 
+    based on its own location (e.g. multiplying a price by a quantity for each item in a list).
+
+5. Describe flash fill and what the different ways to access the flash fill are.
+   .Using the keyboard shortcut "Ctrl + E".
+   .Clicking on the "Data" tab in the Ribbon, then selecting "Flash Fill" from the "Data Tools" group.
+
+6. Extract first name and last name from the mail id and then from the
+   address column, extract the city, state, and pin code using the flash fill.
+   Given below is an example of the columns you have to create. Paste the
+   screenshot of what you have created using the flash fill command.
+   Example: Mail Id, Address, First name, Last name, State, City, Pincode
+ 
+![Screenshot (1)](https://user-images.githubusercontent.com/118104884/227587999-d62d3917-f7be-4981-96f5-562871ccd076.png)
