@@ -1,0 +1,28 @@
+1. What are the different margins options and do we adjust the margins of
+   the excel worksheet?
+   Excel provides different margin options, such as top margin, bottom margin, left margin, and right margin, but adjusting margins
+   not typically necessary in Excel since it is primarily used for creating spreadsheets, rather than printed documents.
+
+2. Set a background for your table created.
+   .Select the table by clicking anywhere within it.
+   .Go to the "Table Tools" tab in the ribbon, click on "Design" and then select desired background color or style from the "Table Styles" gallery.
+
+3. What is freeze panes and why do we use freeze panes? Give examples.
+   Freeze panes is a feature in Excel that allows you to lock rows and/or columns so they remain visible while scrolling through a large dataset.
+   for example : If we have large dataset with column headers at the top of the sheet. If you scroll down to view the data, the column headers
+   will no longer be visible so, By using freeze panes, you can keep the column headers visible at all times.
+
+4. What are the different features available within the Freeze Panes command?
+   .Freeze Top Row
+   .Freeze First Column
+   .Freeze Panes (Freeze both Rows and Columns)
+
+5. Explain what the different sheet options present in excel are and what they do?
+   .Insert Sheet: Inserts a new worksheet into the workbook.
+   .Delete Sheet: Deletes the currently selected worksheet.
+   .Rename Sheet: Renames the currently selected worksheet.
+   .Move or Copy Sheet: Allows to move or copy the current worksheet to another location within the workbook or to another workbook.
+   .Hide Sheet: Hides the currently selected worksheet from view.
+   .Unhide Sheet: Unhides a worksheet that has been hidden.
+   .Protect Sheet: Restricts access to certain aspects of the worksheet, such as editing cells, formatting, and inserting or deleting rows and columns.
+   .Tab Color: Allows you to change the color of the worksheet tab for easier identification and organization of multiple worksheets within a workbook.
