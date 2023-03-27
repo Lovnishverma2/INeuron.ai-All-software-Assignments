@@ -1,0 +1,51 @@
+1. What is a Macro? How is it useful in excel or in your daily work?
+   A Macro in Excel is a set of instructions or code that automates a repetitive task or series of tasks, making it faster and more efficient to perform.
+   .Excel's macro feature can be used to automate repetitive tasks, such as formatting data or generating reports, which saves time and reduces the likelihood 
+    of errors.
+   .Macros can also be used to perform complex calculations or data analysis, making it easier to work with large datasets and improve the accuracy of results.
+
+2. What is VBA? Write its full form and briefly explain why VBA is used in excel?
+   VBA (Visual Basic for Applications) in Excel is a programming language that allows users to create and customize macros and automate tasks in Excel, providing greater
+   flexibility and control over Excel's functions and features.
+
+3. How do you record a macro? Write detailed steps to create a macro to automatically make the following table in bold and to create borders for it in excel.
+                  hi 78
+                  hello 69
+                  ineuron 45
+   Steps to record macro and create the given table automatically by macro.
+   .Open the new worksheet and open the developer option in it.
+   .In developer option macro is there, In that click "Record macro" and name the macro also give the shortcut key & discription.
+   .Then create the table manually by typing the given table and then click on "Stop macro".
+   .Macro is created with shortcut key which you have given, when we try to create this table in new worksheet we just have to click the shortcut key to create it.
+
+4. What do you mean when we say VBA Editor?
+   The VBA Editor in Excel is an integrated development environment (IDE) that allows users to write, test, and debug VBA code for automating tasks and customizing Excel's functionality.
+
+5. Briefly describe the interface of a VBA editor? What is properties window? And what is watch window? How do you display these windows?
+   The VBA Editor in Excel has a user-friendly interface that includes several components:
+   .Menu Bar: Contains menus that offer various commands for managing and editing VBA code.
+   .Standard Toolbar: Provides quick access to frequently used commands such as Save, Undo, and Run.
+   .Project Explorer: Displays a hierarchical view of all the projects in the current workbook and allows users to navigate and manage them.
+   .Code Window: Displays the VBA code for the selected project or module and allows users to edit or write new code.
+   .Immediate Window: Provides a command line interface for executing VBA code and displaying results.
+   .Properties Window: Displays the properties of the selected object, such as the font or color of a cell or range.
+   .Watch Window: Allows users to monitor the values of variables and expressions as they are being executed.
+   
+   The Properties Window in Excel is a tool that displays and allows users to modify the properties of a selected object, such as a cell, chart, or worksheet.
+    
+   The Watch Window in Excel is a tool in the VBA Editor that allows users to monitor the value of variables and expressions in real-time as they are being executed, helping to debug code and 
+   identify errors quickly.
+   
+   To display these windows VBA editor, properties window and watch window
+   .VBA Editor in Excel, press "Alt + F11" on your keyboard.
+   .Properties Window in the VBA Editor, click on "View" in the menu bar, then select "Properties Window" or press "F4" on your keyboard.
+   .Watch Window in the VBA Editor, click on "Debug" in the menu bar, then select "Windows" and then "Watch Window" or press "Ctrl + Shift + W" on your keyboard.
+    
+6. What is an immediate Window and what is it used for?
+   The Immediate Window in Excel is a tool in the VBA Editor that allows users to execute single lines of code and view the results immediately. 
+   It can be used in the following ways:
+   .Debugging: Users can use the Immediate Window to test and troubleshoot their code by executing small sections of code and evaluating the results.
+   .Querying Objects: Users can use the Immediate Window to query objects in the current workbook, such as cells or ranges, and view their properties or values.
+   .Setting Values: Users can use the Immediate Window to set the value of a variable or object property, making it useful for quick prototyping or testing.
+   .Running Procedures: Users can use the Immediate Window to run procedures that have been defined in their VBA code, allowing for quicker testing and debugging of procedures.
+
