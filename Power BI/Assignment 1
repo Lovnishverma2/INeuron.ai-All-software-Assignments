@@ -1,0 +1,29 @@
+1.What do you mean by BI? Explain.
+  BI in Power BI stands for Business Intelligence, which refers to the process of analyzing and visualizing data to gain insights and make informed business decisions.
+
+2.How Power-BI helps in BI, and how does it help Analysts? Explain.
+  Power BI is a powerful business intelligence tool that helps analysts to gather, analyze, and visualize data from multiple sources. Here are some ways Power BI helps
+  in BI and assists analysts: Data Gathering, Data Modeling, Data Visualization, Collaboration and Insights and Decision Making.
+
+3.Explain Descriptive analytics?
+  Descriptive analytics in Power BI refers to the use of data visualization techniques and summary statistics to describe and understand historical data patterns and trends.
+
+4.Explain Predictive analytics?
+  Predictive analytics in Power BI refers to the use of statistical models and machine learning algorithms to analyze historical data and make predictions about future outcomes.
+
+5.Explain perspective analytics?
+  Perspective analytics in Power BI refers to the process of analyzing data from different angles or perspectives to gain a comprehensive understanding of business operations and 
+  make informed decisions.
+
+6.Write five real-life questions that PowerBi can solve.
+  .Which product categories are generating the most revenue for my business?
+    Power BI can help analyze sales data to determine which product categories are the most profitable and inform decisions on product development or marketing strategies.
+  .What are the main factors impacting customer churn in my business?
+    By analyzing customer behavior and feedback data, Power BI can help identify the key drivers of customer churn and inform strategies to improve customer retention.
+  .How is my marketing campaign performing across different channels?
+    Power BI can help analyze marketing data from multiple channels (such as social media, email, and website analytics) to determine which channels are generating the most traffic and conversions.
+  .Which regions or stores are underperforming in terms of sales?
+    By analyzing sales data by region or store, Power BI can help identify areas that are not meeting performance targets and inform decisions on resource allocation or strategy changes.
+  .How is my website performing in terms of user engagement and conversion rates?
+    Power BI can help analyze website data to determine how users are interacting with the site, which pages are most popular, and which pages are leading to conversions.
+
